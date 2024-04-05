@@ -16,6 +16,7 @@ namespace bot_praktika
         private static async Task Update(ITelegramBotClient client, Update update, CancellationToken token)
         {
             var message = update.Message;
+            if(message == null) { return; }
             if (message.Text != null)
             {
                 Console.WriteLine($"{message.Chat.FirstName} | {message.Text}");

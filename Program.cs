@@ -75,7 +75,7 @@ namespace bot_praktika
 
                     await client.SendTextMessageAsync(
                         message.Chat.Id,
-                        $"Малолетние шалавы - https://www.youtube.com/watch?v=icmYeesBTRY"+
+                        $"Малолетние - https://www.youtube.com/watch?v=icmYeesBTRY"+
                         $"\nЯ КАК ВО СНЕ - https://www.youtube.com/watch?v=K3-d6IBAzaI" +
                         $"\nЯ поднимаю свою голову вверх - https://www.youtube.com/watch?v=zVHMOWIFWks" +
                         $"\nвайбмен - https://www.youtube.com/watch?v=YpMU3g8JLjw" +

@@ -141,7 +141,7 @@ namespace bot_praktika
                     var replyKeyboard = new ReplyKeyboardMarkup(
                         new KeyboardButton[][]
                         {
-                            ["Початок"]
+                            ["Початок", "осв. програма"]
                         });
 
                     await client.SendTextMessageAsync(
@@ -155,7 +155,7 @@ namespace bot_praktika
                     var replyKeyboard = new ReplyKeyboardMarkup(
                         new KeyboardButton[][]
                         {
-                            ["Початок"]
+                           ["Початок", "осв. програма"]
                         });
 
                     await client.SendTextMessageAsync(
@@ -169,7 +169,7 @@ namespace bot_praktika
                     var replyKeyboard = new ReplyKeyboardMarkup(
                         new KeyboardButton[][]
                         {
-                            ["Початок"]
+                            ["Початок", "осв. програма"]
                         });
 
                     await client.SendTextMessageAsync(
@@ -183,7 +183,7 @@ namespace bot_praktika
                     var replyKeyboard = new ReplyKeyboardMarkup(
                         new KeyboardButton[][]
                         {
-                            ["Початок"]
+                           ["Початок", "осв. програма"]
                         });
 
                     await client.SendTextMessageAsync(
@@ -197,7 +197,7 @@ namespace bot_praktika
                     var replyKeyboard = new ReplyKeyboardMarkup(
                         new KeyboardButton[][]
                         {
-                            ["Початок"]
+                           ["Початок", "осв. програма"]
                         });
 
                     await client.SendTextMessageAsync(

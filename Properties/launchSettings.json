@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "bot_praktika": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
